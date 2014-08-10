@@ -1,0 +1,8 @@
+---
+title: "Coursera-Regression Models"
+author: "ming li"
+date: "Saturday, August 09, 2014"
+output: html_document
+---
+
+### 
